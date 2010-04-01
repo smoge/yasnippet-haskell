@@ -1,0 +1,4 @@
+#name : lambda function
+#contributor : Michel Rijnders <g.a.c.rijnders@gmail.com>
+# --
+\(${1:params}) -> $0
